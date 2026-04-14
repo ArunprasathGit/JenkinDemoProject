@@ -2,7 +2,7 @@ package com.arun.ms.firstapp.model;
 
 public class Employee {
 
-    private int id;
+    public int id;
     private String name;
     private String role;
 
